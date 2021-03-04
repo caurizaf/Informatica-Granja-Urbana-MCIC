@@ -1,0 +1,1 @@
+1-Módulo IoT sensor (A)
